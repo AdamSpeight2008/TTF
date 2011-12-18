@@ -1,0 +1,18 @@
+#Ignore thumbnails created by windows
+Thumbs.db
+#Ignore fikes build by Visual Studio
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+*/[Bb]in/
+*.sbr
+*/obj/
